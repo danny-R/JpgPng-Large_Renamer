@@ -1,3 +1,6 @@
+# Important Notes
+this application is no longer of any use altogether.
+
 This app run Terminal and write with C#.
 ".jpg-large" and ".png-lage" files in selected directories rename to .jpg , .png. 
 
