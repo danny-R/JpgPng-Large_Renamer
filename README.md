@@ -1,5 +1,18 @@
 # Important Notes
+**This application is completly unuseful  as an executable application.**
+
+Therefore, the exe was erased.
 this application is no longer of any use altogether.
+However, for recording, review, validation, sample and any other purposes, you are free to use it.
+However, please handle it appropriately at your own risk.
+
+This application and this source code once existed for a limited number of old Twitter users.
+
+---
+
+The following content remains unchanged from the previous README.md.
+
+---
 
 This app run Terminal and write with C#.
 ".jpg-large" and ".png-lage" files in selected directories rename to .jpg , .png. 
